@@ -22,8 +22,8 @@ This repository contains my solutions to LeetCode problems in multiple programmi
 
 | Language | Problems Solved |
 |-----------|----------------:|
-| C++ | 0 |
-| Java | 0 |
+| C++ | 1 |
+| Java | 3 |
 | Python | 0 |
 | JavaScript | 0 |
 | TypeScript | 0 |
@@ -112,8 +112,8 @@ Leetcode-Solutions
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
+| 🟢 Easy | 1 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
 
 ---
